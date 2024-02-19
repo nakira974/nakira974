@@ -24,7 +24,7 @@ Let's connect and build a strong network together! 🚀
 - Maths: ⭐️⭐️⭐️⭐
 - Troubleshooting: ⭐️⭐️⭐️⭐️
 - Performance Optimization: ⭐️⭐️⭐️
-- Automation: ⭐️
+- Industrial Automation: ⭐️
 - Electronic Design: ⭐️
 
 ### My Favorites Languages 🐞
