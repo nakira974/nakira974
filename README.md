@@ -16,6 +16,8 @@ Let's connect and build a strong network together! 🚀
 
 ### Skills
 
+- Software Development: ⭐️⭐️⭐️⭐️⭐️
+- System Administration: ⭐️⭐️⭐️⭐️⭐️
 - Network Architecture: ⭐️⭐️⭐️⭐️⭐️
 - Routing Protocols: ⭐️⭐️⭐️⭐️⭐️
 - Network Security: ⭐️⭐️⭐️⭐️
@@ -24,9 +26,10 @@ Let's connect and build a strong network together! 🚀
 
 ### My favorites languages
 
-- Java : ⭐️⭐️⭐️⭐️
-- C : ⭐️⭐️⭐️⭐️
+- Java : ⭐️⭐️⭐️⭐️⭐️
+- C : ⭐️⭐️⭐️⭐️⭐️
 - C# : ⭐️⭐️⭐️⭐️
+- Javascript / Typescript : ⭐️⭐️⭐️⭐️
 - C++ : ⭐️⭐️⭐️
 - Rust : ⭐️
 
