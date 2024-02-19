@@ -21,8 +21,11 @@ Let's connect and build a strong network together! 🚀
 - Network Architecture: ⭐️⭐️⭐️⭐️⭐️
 - Routing Protocols: ⭐️⭐️⭐️⭐️⭐️
 - Network Security: ⭐️⭐️⭐️⭐️
+- Maths: ⭐️⭐️⭐️⭐
 - Performance Optimization: ⭐️⭐️⭐️
 - Troubleshooting: ⭐️⭐️⭐️⭐️
+- Automation: ⭐️
+- Electronic Design: ⭐️
 
 ### My Favorites Languages 🐞
 
@@ -30,7 +33,9 @@ Let's connect and build a strong network together! 🚀
 - C : ⭐️⭐️⭐️⭐️⭐️
 - C# : ⭐️⭐️⭐️⭐️
 - C++ : ⭐️⭐️⭐️
+- VHDL: ⭐️⭐️⭐️
 - Rust : ⭐️⭐️
+- NASM : ⭐
 - Javascript / Typescript : ⭐️⭐️⭐️⭐️
 
 
