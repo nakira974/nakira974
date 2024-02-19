@@ -22,8 +22,8 @@ Let's connect and build a strong network together! 🚀
 - Routing Protocols: ⭐️⭐️⭐️⭐️⭐️
 - Network Security: ⭐️⭐️⭐️⭐️
 - Maths: ⭐️⭐️⭐️⭐
-- Performance Optimization: ⭐️⭐️⭐️
 - Troubleshooting: ⭐️⭐️⭐️⭐️
+- Performance Optimization: ⭐️⭐️⭐️
 - Automation: ⭐️
 - Electronic Design: ⭐️
 
