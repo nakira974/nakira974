@@ -14,8 +14,10 @@
 
 Let's connect and build a strong network together! 🚀
 
-* "IF I HADN'T BEEN FOR COTTON-EYED JOE, I'D BE MARRIED LONG TIME AGO, WHERE DID YOU COME FROM ? WHERE DID YOU GO ? WHERE DID YOU COME FROM, COTTON-EYED JOE ?"*
-### Skills
+* "IF I HADN'T BEEN FOR COTTON-EYED JOE, I'D BE MARRIED LONG TIME AGO, WHERE DID YOU COME FROM ? WHERE DID YOU GO ? WHERE DID YOU COME FROM, COTTON-EYED JOE ?" *
+
+
+### Skills Rating 🌟
 
 - Software Development: ⭐️⭐️⭐️⭐️⭐️
 - System Administration: ⭐️⭐️⭐️⭐️⭐️
@@ -25,7 +27,7 @@ Let's connect and build a strong network together! 🚀
 - Performance Optimization: ⭐️⭐️⭐️
 - Troubleshooting: ⭐️⭐️⭐️⭐️
 
-### My favorites languages
+### My Favorites Languages 🐞
 
 - Java : ⭐️⭐️⭐️⭐️⭐️
 - C : ⭐️⭐️⭐️⭐️⭐️
