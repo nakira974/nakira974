@@ -14,6 +14,7 @@
 
 Let's connect and build a strong network together! 🚀
 
+* "IF I HADN'T BEEN FOR COTTON-EYED JOE, I'D BE MARRIED LONG TIME AGO, WHERE DID YOU COME FROM ? WHERE DID YOU GO ? WHERE DID YOU COME FROM, COTTON-EYED JOE ?"*
 ### Skills
 
 - Software Development: ⭐️⭐️⭐️⭐️⭐️
@@ -29,9 +30,9 @@ Let's connect and build a strong network together! 🚀
 - Java : ⭐️⭐️⭐️⭐️⭐️
 - C : ⭐️⭐️⭐️⭐️⭐️
 - C# : ⭐️⭐️⭐️⭐️
-- Javascript / Typescript : ⭐️⭐️⭐️⭐️
 - C++ : ⭐️⭐️⭐️
-- Rust : ⭐️
+- Rust : ⭐️⭐️
+- Javascript / Typescript : ⭐️⭐️⭐️⭐️
 
 
 <!--
