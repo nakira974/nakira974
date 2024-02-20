@@ -38,8 +38,6 @@ Let's connect and build a strong network together! 🚀
 - NASM : ⭐
 - Javascript / Typescript : ⭐️⭐️⭐️⭐️
 
-
-*"IF I HADN'T BEEN FOR COTTON-EYED JOE, I'D BE MARRIED LONG TIME AGO, WHERE DID YOU COME FROM ? WHERE DID YOU GO ? WHERE DID YOU COME FROM, COTTON-EYED JOE ?"* 🦅🦅🦅🤠
 <!--
 **nakira974/nakira974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
