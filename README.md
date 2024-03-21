@@ -12,31 +12,7 @@
 
 ⚡ Fun fact: I enjoy exploring new coffee shops in different cities (Coffee shops yeah... 👀)!
 
-Let's connect and build a strong network together! 🚀
-
-### Skills Rating 🌟
-
-- Software Development: ⭐️⭐️⭐️⭐️⭐️
-- System Administration: ⭐️⭐️⭐️⭐️⭐️
-- Network Architecture: ⭐️⭐️⭐️⭐️⭐️
-- Routing Protocols: ⭐️⭐️⭐️⭐️⭐️
-- Network Security: ⭐️⭐️⭐️⭐️
-- Maths: ⭐️⭐️⭐️⭐
-- Troubleshooting: ⭐️⭐️⭐️⭐️
-- Performance Optimization: ⭐️⭐️⭐️
-- Industrial Automation: ⭐️
-- Electronic Design: ⭐️
-
-### My Favorites Languages 🐞
-
-- Java : ⭐️⭐️⭐️⭐️⭐️
-- C : ⭐️⭐️⭐️⭐️⭐️
-- C# : ⭐️⭐️⭐️⭐️
-- C++ : ⭐️⭐️⭐️
-- VHDL: ⭐️⭐️⭐️
-- Rust : ⭐️⭐️
-- NASM : ⭐
-- Javascript / Typescript : ⭐️⭐️⭐️⭐️
+Let's connect and build, maybe a project together! 🚀
 
 <!--
 **nakira974/nakira974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
