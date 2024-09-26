@@ -10,8 +10,6 @@
 
 📫 You can reach me at mxlkh@duck.com for any networking-related discussions or collaborations.
 
-⚡ Fun fact: I enjoy exploring new coffee shops in different cities (Coffee shops yeah... 👀)!
-
 Let's connect and build, maybe a project together! 🚀
 
 <!--
