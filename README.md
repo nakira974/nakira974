@@ -1,6 +1,6 @@
 ### Hi there, I'm Maxime Loukhal 👋
 
-🔭 I'm a French accredited Computer-Science Engineer, graduated from Polytechnic Institute Unilasalle in Amiens with expertise in network technologies and IOT.
+🔭 I'm a French Computer-Science Engineer, graduated from Polytechnic Institute Unilasalle in Amiens with expertise in network technologies and IOT.
 
 🌐 I specialize in designing and implementing network solutions to ensure seamless communication and connectivity.
 
