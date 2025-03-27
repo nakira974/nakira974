@@ -1,16 +1,24 @@
 ### Hi there, I'm Maxime Loukhal 👋
 
-🔭 I'm a French Computer Engineer, graduated from ESIEE with expertise in network technologies and IOT.
+🔭 French Computer Engineer graduated from ESIEE in Electrical and Computer Engineering.
 
-🌐 I specialize in designing and implementing network solutions to ensure seamless communication and connectivity.
+🌐 Specialization: Designing and implementing network solutions to ensure seamless communication and connectivity.
 
-💻 My skills include network architecture, routing protocols, security, and performance optimization.
+💻 Skills:
 
-📚 I'm passionate about learning new technologies and staying updated with the latest trends in networking.
+- Hardware design
+- Microcontrollers / RTOS
+- Network architecture
+- Low-level / telecommunication / cellular protocols
+- Security
+- Performance optimization
+- Automation and Infrastructure: Industrial interfaces, real-time flow management
 
-📫 You can reach me at mxlkh@duck.com for any networking-related discussions or collaborations.
+📚 Passionate about learning new technologies and staying updated with the latest trends in networking and hardware.
 
-Let's connect and build, maybe a project together! 🚀
+📫 Contact: mxlkh@duck.com for any networking-related discussions or collaborations.
+
+👯 Looking to collaborate on compilers, low-level libraries, or kernels.
 
 <!--
 **nakira974/nakira974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
