@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 <code><a href="https://emscripten.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Emscripten_logo.svg" alt="Emscripten logo" /></a></a></code>
 <code><a href="https://docker.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Docker_Logo.svg" alt="Docker logo" /></a></a></code>
 <code><a href="https://traefik.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Traefik_Logo.svg" alt="Traefik logo" /></a></a></code>
+<code><a href="https://developer.hashicorp.com/terraform"><img height="40" src="https://miro.medium.com/v2/resize:fit:1200/1*eur_T036DOq4RhS9RVTAuA.png" alt="Hashicorp Terraform logo" /></a></a></code>
 
 ### Favorite architecture
 <code><a href="https://github.com/riscv/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/RISC-V-logo.svg" alt="RISC-V logo" /></a></code>
