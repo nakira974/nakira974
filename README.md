@@ -4,7 +4,7 @@
 [![Leetcode](https://img.shields.io/badge/-nakiradu77-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/nakiradu77/)
 [![CodinGame](https://img.shields.io/badge/-nakiradu77-yellow?style=flat&logo=codingame&logoColor=white)](https://www.codingame.com/profile/f9df3f31d02f494c3755d0ad149164628289395)
 [![Mail contact](https://img.shields.io/badge/-mxlkh@duck.com-c14438?style=flat&logo=duckduckgo&logoColor=white)](mailto:mxlkh@duck.com)
-[![Portfolio](https://img.shields.io/badge/-nakiradu77.github.io-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://nakiradu77.github.io)
+[![Portfolio](https://img.shields.io/badge/-nakiradu77.github.io-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://nakiradu77.github.io/rust-portfolio)
 
 🔭 French Computer Engineer graduated from ESIEE in Electrical and Computer Engineering.
 
