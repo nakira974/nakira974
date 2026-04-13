@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 -->
 
 ### Favorites langages
-<code><a href="https://https://rust-lang.org/fr/"><img height="40" src="https://rust-lang.org/static/images/rust-logo-blk.svg" alt="rust logo" /></a></code>
+<code><a href="https://https://rust-lang.org/fr/"><img height="40" src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rusty/rust-logo-512x512.png" alt="rust logo" /></a></code>
 <code><a href="https://fr.wikipedia.org/wiki/C_(langage)/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C logo" /></a></code>
 <code><a href="https://cplusplus.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ logo" /></a></code>
 <code><a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/330px-Logo_C_sharp.svg.png" alt="C# logo" /></a></a></code>
@@ -70,3 +70,8 @@ Here are some ideas to get you started:
 <code><a href="https://cloud.ibm.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/24/IBM_Cloud_logo.png" alt="IBM Cloud logo" /></a></code>
 <code><a href="https://aws.amazon.com/fr/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS logo" /></a></code>
 <code><a href="https://www.ovhcloud.com/fr/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-OVH.svg" alt="OVH logo" /></a></code>
+
+## ML tools
+<code><a href="https://chat.deepseek.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DeepSeek_logo.svg/960px-DeepSeek_logo.svg.png" alt="Deepseek logo" /></a></a></code>
+<code><a href="https://onnx.ai/"><img height="40" src="https://onnx.ai/images/ONNX-Logo.svg" alt="ONNX logo" /></a></a></code>
+<code><a href="https://huggingface.co/"><img height="40" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface logo" /></a></a></code>
