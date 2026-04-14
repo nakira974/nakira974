@@ -74,5 +74,5 @@ Here are some ideas to get you started:
 
 ## ML tools
 <code><a href="https://chat.deepseek.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DeepSeek_logo.svg/960px-DeepSeek_logo.svg.png" alt="Deepseek logo" /></a></a></code>
-<code><a href="https://onnx.ai/"><img height="40" src="https://onnx.ai/images/ONNX-Logo.svg" alt="ONNX logo" /></a></a></code>
+<code><a href="https://onnx.ai/"><img height="40" src="https://miro.medium.com/v2/1*noJW22VX3JYHMl14SxU5cw.png" alt="ONNX logo" /></a></a></code>
 <code><a href="https://huggingface.co/"><img height="40" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface logo" /></a></a></code>
