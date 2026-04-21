@@ -1,7 +1,8 @@
-### Bonjour à tous, je m'appelle Maxime Loukhal 👋
 👾💥👾👾
 
 👾💥👾
+
+### Bonjour à tous, je m'appelle Maxime Loukhal 👋
 
 ## 'Au milieu du chaos, réside l'opportunité', Bruce Lee
 ![GitHub followers](https://img.shields.io/github/followers/nakiradu77) ![GitHub User's stars](https://img.shields.io/github/stars/nakiradu77) <img src="https://komarev.com/ghpvc/?username=nakiradu77&label=Profile%20views&color=0e75b6&style=flat" alt="nakiradu77" /> 
@@ -26,6 +27,8 @@
 - Automation and Infrastructure: Industrial interfaces, real-time flow management
 
 📚 Passionate about learning new technologies and staying updated with the latest trends in networking and hardware.
+
+🎮 Unconditional love of arcade and old school games.
 
 📫 Contact: mxlkh@duck.com for any networking-related discussions or collaborations.
 
