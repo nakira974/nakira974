@@ -1,4 +1,5 @@
-### Hi there, I'm Maxime Loukhal 👋
+### Bonjour à tous, je m'appelle Maxime Loukhal 👋
+## 'Au milieu du chaos, réside l'opportunité', Bruce Lee
 ![GitHub followers](https://img.shields.io/github/followers/nakiradu77) ![GitHub User's stars](https://img.shields.io/github/stars/nakiradu77) <img src="https://komarev.com/ghpvc/?username=nakiradu77&label=Profile%20views&color=0e75b6&style=flat" alt="nakiradu77" /> 
 
 [![Leetcode](https://img.shields.io/badge/-Leetcode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/nakiradu77/)
