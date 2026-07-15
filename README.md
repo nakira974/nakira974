@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 -->
 
 ### Favorites langages
-<code><a href="https://https://rust-lang.org/fr/"><img height="40" src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rusty/rust-logo-512x512.png" alt="rust logo" /></a></code>
+<code><a href="https://rust-lang.org/fr/"><img height="40" src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rusty/rust-logo-512x512.png" alt="rust logo" /></a></code>
 <code><a href="https://fr.wikipedia.org/wiki/C_(langage)/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C logo" /></a></code>
 <code><a href="https://cplusplus.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ logo" /></a></code>
 <code><a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/330px-Logo_C_sharp.svg.png" alt="C# logo" /></a></a></code>
